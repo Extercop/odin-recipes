@@ -1,0 +1,29 @@
+.title {
+    background-color: #ffc0cb;
+    color: white;
+    font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
+    font-weight: 700;
+    text-align: center;
+}
+
+.return-button {
+    color: white;
+    background-color: #c08d9b;
+    border: 10px;
+}
+
+#ralsei {
+    height: auto;
+    width: auto;
+}
+
+.subtitle {
+    background-color: #ffc0cb;
+    color: #7B3F00;
+    font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
+    text-align: left;
+}
+
+.desc-text {
+font-family: "Courier New", "Courier New", monospace;
+}
