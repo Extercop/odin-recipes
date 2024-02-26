@@ -12,9 +12,36 @@
     border: 10px;
 }
 
+.recipe-button {
+    float: left;
+    border: 1px solid #ffc0cb;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    background-color: #ffc0cb;
+    font-size: 16px;
+}
+
+.recipe-button:hover {
+background-color: white;
+color: #ffc0cb;
+}
+
 #ralsei {
     height: auto;
     width: auto;
+    position:fixed;
+    bottom:0px;
+    right: 0px;
+    width: 80px;
+}
+
+#cup {
+    height: auto;
+    width: auto;
+    position:fixed;
+    bottom:0px;
+    right: 1518px;
+    width: 80px;
 }
 
 .subtitle {
