@@ -3,7 +3,10 @@
     color: white;
     font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
     font-weight: 700;
+    font-size: 50px;
     text-align: center;
+    line-height: 70px;
+    width: 850px;
 }
 
 .return-button {
@@ -13,8 +16,8 @@
 }
 
 .recipe-button {
-    float: left;
-    border: 1px solid #ffc0cb;
+    display:block;
+    border: 1px solid #c08d9b;
     border-radius: 4px;
     transition-duration: 0.4s;
     background-color: #ffc0cb;
@@ -35,7 +38,7 @@ color: #ffc0cb;
     width: 80px;
 }
 
-.hmp {
+.hmp, .rbg {
     background-color:bisque ;
 }
 
@@ -50,7 +53,7 @@ color: #ffc0cb;
 
 .subtitle {
     background-color: #ffc0cb;
-    color: #7B3F00;
+    color: chocolate;
     font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
     text-align: left;
 }
