@@ -7,6 +7,7 @@
     text-align: center;
     line-height: 70px;
     width: 850px;
+    margin-left: 500px;
 }
 
 .return-button {
@@ -22,6 +23,8 @@
     transition-duration: 0.4s;
     background-color: #ffc0cb;
     font-size: 16px;
+    margin: 5px;
+    margin-left: 495px;
 }
 
 .recipe-button:hover {
